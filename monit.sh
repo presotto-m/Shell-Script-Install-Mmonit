@@ -14,14 +14,3 @@ cd mmonit-3.7.14/
 
 # Iniciando o mmonit
 ./bin/mmonit
-
-# Baixando monit repositorio GIT
-git clone https://tildeslash@bitbucket.org/tildeslash/monit.git
-cd monit/
-./bootstrap
-
-# Instalando o monit
-#!c 
-./configure 
-make 
-make install
