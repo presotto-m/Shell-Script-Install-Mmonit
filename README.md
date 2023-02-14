@@ -1,5 +1,5 @@
-# Shell-Script-Install-Monit
-Shell Script para instalação do Monit e Mmonit 
+# Shell-Script-Install-Mmonit
+Shell Script para instalação do Mmonit 
 
 **Importante:** este é um trabalho em andamento.
 
@@ -11,27 +11,19 @@ Quaisquer sugestões e contribuições são bem-vindas.
 
 # Como usar isso?
 
-* chmod +x monit.sh
+* chmod +x mmonit.sh
 
-* sudo ./monit.sh
+* sudo ./mmonit.sh
 
 ## Instalação completa
 
 A instalação completa instalará o seguinte:
 
-* Monit
-
 * Mmonit
 
 # Acesso
 
-* http://localhost:2812 Monit
-* http://localhost:8080 Mmonit
-
-# Login - Monit: 
-
-* Usuario: admin
-* Senha: monit
+* http://localhost:8080 
 
 # Login - Mmonit: 
 
